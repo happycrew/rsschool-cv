@@ -1,4 +1,5 @@
 # Vladimir Orlov #
+![Photo](244_oooo.plus.png)
 ### Frontend Developer (in future) ###
 ## Contacts ##
 
@@ -8,7 +9,10 @@
 
 ## About me ##
 
-I want to learn Front-End Development in RSSchool!
+Hello everyone!
+My name is Vladimir, I am 30 years old and I love programming.
+
+Unfortunately, I don't have enough experience in this matter and I hope to fix it thanks to the courses from RS School :)
 
 ## My skills ##
 
