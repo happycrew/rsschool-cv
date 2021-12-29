@@ -1,5 +1,5 @@
 # Vladimir Orlov #
-![Photo](244_oooo.plus.png)
+![Photo](./assets/244_oooo.plus.png)
 ### Frontend Developer (in future) ###
 ## Contacts ##
 
