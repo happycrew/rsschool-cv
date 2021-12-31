@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://satancrew.github.io/rsschool-cv/
