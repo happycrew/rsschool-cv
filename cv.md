@@ -1,49 +1,44 @@
-# Vladimir Orlov
-
+# Vladimir Orlov #
 ![Photo](./assets/244_oooo.plus.jpg)
+### Frontend Developer (in future) ###
+## Contacts ##
 
-### Frontend Developer (in future)
+* Mobile: 8-926-400-27-56 
+* Discord: Vladimir (@Satancrew)
+* Email: satancrew.true@gmail.com
 
-## Contacts
-
-- Mobile: 8-926-400-27-56
-- Discord: Vladimir (@Satancrew)
-- Email: satancrew.true@gmail.com
-
-## About me
+## About me ##
 
 Hello everyone!
 My name is Vladimir, I am 30 years old and I love programming.
 
 Unfortunately, I don't have enough experience in this matter and I hope to fix it thanks to the courses from RS School :)
 
-## My skills
+## My skills ##
 
-- HTML (basic)
-- CSS (basic)
-- JS (basic +-)
-- Python (basic once upon a time...)
+* HTML (basic)
+* CSS (basic)
+* JS (basic +-)
+* Python (basic once upon a time...)
 
-## Languages
+## Languages ##
 
-- Russian (native)
-- English (A1-A2~)
+* Russian (native)
+* English (A1-A2~)
 
-## Code example:
-
+## Code example: ##
 ```
 function multiply(a, b) {
   return a * b;
 };
 ```
+## Education: ##
 
-## Education:
+* Univercite: Moscow Academy of Finance and Law (Sergiev Posad branch), ***Сustoms specialist***
+* Courses: 
+    + [Rsschool (in process)](https://rs.school/ "Курсы от Rsscool")
+    + Simulators from Html Academy :)
 
-- Univercite: Moscow Academy of Finance and Law (Sergiev Posad branch), **_Сustoms specialist_**
-- Courses:
-  - [Rsschool (in process)](https://rs.school/ "Курсы от Rsscool")
-  - Simulators from Html Academy :)
-
-## Projects:
+## Projects: ##
 
 https://github.com/Satancrew/rsschool-cv
